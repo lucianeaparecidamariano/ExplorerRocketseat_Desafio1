@@ -1,22 +1,21 @@
-<h1 align="center">Corrigindo Bugs (1) </h1>
+<h1 align="center">Móveis Customizados</h1>
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/92582446/163578085-65b7de7f-b45f-433b-b659-a80320ee209b.JPG" alt="tela"/>
 </p>
 
-<p align="center">Página estática para treinar os conhecimentos adquiridos nas aulas do nível 2 do programa Explorer da Rocketseat <a href="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio1">here</a></p>
+<p align="center"><a href="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio1">Clique aqui para visualizar o projeto</a></p>
 
-<p align="center">
- <a href="#technologies">Tecnologias</a> •
-</p>
+<h2>:wrench: Sobre o projeto:</h2>
 
-<h1 id="technologies">:computer: Tecnologias</h1>
+<p> Construção de uma página estática para treinar os conhecimentos adquiridos nas aulas do nível 2 do programa Explorer da Rocketseat. </p>
 
-<p>Foram utilizadas as seguintes tecnologias:</p>
+<h2>:computer: Tecnologias utilizadas:</h2>
 
-- HTML
-- CSS
+:white_check_mark: HTML
+:white_check_mark: CSS
 
+<br>
 
 
 Feito com :heart: por Luciane Aparecida Mariano
