@@ -4,7 +4,7 @@
 <img src="https://user-images.githubusercontent.com/92582446/163578085-65b7de7f-b45f-433b-b659-a80320ee209b.JPG" alt="tela"/>
 </p>
 
-<p align="center"><a href="https://github.com/lucianeaparecidamariano/ExplorerRocketseat_Desafio1">Clique aqui para visualizar o projeto</a></p>
+<p align="center"><a href="https://lucianeaparecidamariano.github.io/Moveis_Customizados/">Clique aqui para acessar o projeto</a></p>
 
 <h2>:wrench: Sobre o projeto:</h2>
 
